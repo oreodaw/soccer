@@ -43,7 +43,7 @@ public class Player implements Serializable {
 		super();
 	}
 	
-	public Player(String name, String goals, String country, String age) {
+	public Playera(String name, String goalsa, String country, String age) {
 		super();
 		this.name = name;
 		this.goals = goals;
